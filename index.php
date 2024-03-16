@@ -13,7 +13,6 @@
     }
 
     //Zad2
-
     function pierwsza($n){
         if ($n < 2){
             return false;
